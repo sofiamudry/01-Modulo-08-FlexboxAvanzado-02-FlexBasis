@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+div {
+    height: 200px;
+    border: 1px solid #eee;
+}
+
+/* ejercicio 06 */
+
+/* .box {
+    flex-basis: 25%;
+    background-color: olivedrab;
+}
+
+.last {
+    flex-grow: 1;
+    background-color: orangered;
+} */
+
+/* ejercicio 07 */
+
+/* .box {
+    flex-basis: 25%;
+    background-color: olivedrab;
+}
+
+.last {
+    flex-grow: 1;
+    background-color: orangered;
+} */
+
+/* ejercicio 08 */
+
+.box {
+    flex-basis: 25%;
+    background-color: olivedrab;
+}
+
+.last {
+    flex-grow: 1;
+    background-color: orangered;
+}
